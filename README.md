@@ -1,2 +1,2 @@
 # pythonforkids
-This is for the codes in the book named: PYTHON FOR KIDS!
+The purpose of this is for the programming codes in the book called: PYTHON FOR KIDS!
