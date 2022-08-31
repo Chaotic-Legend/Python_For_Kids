@@ -1,2 +1,2 @@
 # pythonforkids
-The purpose of this is for the programming codes in the book called: PYTHON FOR KIDS!
+The purpose of this repository is for the programming codes in the book called Python for Kids.
