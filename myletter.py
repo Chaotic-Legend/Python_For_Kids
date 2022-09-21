@@ -6,10 +6,9 @@ print('%s Twinklebottom Heath' % spaces)
 print('%s West Snoring' % spaces)
 print
 print
-print('Dear Sir')
-print
-print('I wish to report that tiles are missing from the')
-print('outside toilet roof.')
-print
-print('Regrads')
-print('Malcom Dithering')
+print("Dear Sir")
+print()
+print("I wish to report that tiles are missing from the outside toilet roof.")
+print()
+print("Regrads")
+print("Malcom Dithering")
