@@ -1,4 +1,4 @@
-# This is a made up funny letter! LOL!
+# This program is a made-up funny letter! LOL!
 
 spaces = ' ' * 25 
 print('%s 12 Butts Wynd' % spaces)
@@ -13,4 +13,3 @@ print('outside toilet roof.')
 print
 print('Regrads')
 print('Malcom Dithering')
-
